@@ -1,4 +1,4 @@
 bem-identity
 ============
 
-BEM firm style
+BEM brand identity
