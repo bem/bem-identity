@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="98" height="84" viewBox="0 0 98 84" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <polygon id="a" points=".06 83.94 97.222 83.94 97.222 .075 .06 .075"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <mask id="b" fill="white">
+      <use xlink:href="#a"/>
+    </mask>
+    <polygon fill="#0A0B09" points="55.693 83.94 97.222 83.94 97.222 71.952 55.693 71.952" mask="url(#b)"/>
+    <polyline fill="#EEAE3C" points="49.525 71.976 49.525 50.157 29.979 50.157 29.979 71.951 49.525 71.951" mask="url(#b)"/>
+    <path fill="#0A0B09" d="M45.903,43.353 L41.474,43.353 L36.45,42.244 L36.45,41.127 L45.903,41.127 L45.903,43.353 L45.903,43.353 Z M41.129,23.869 L25.126,23.871 L12.873,0.074 L0,0.074 L0,71.951 L30.125,71.951 L30.125,50.157 L55.623,50.157 L55.623,38.361 C55.623,30.17 49.707,23.869 41.129,23.869 L41.129,23.869 Z" mask="url(#b)"/>
+  </g>
+</svg>
